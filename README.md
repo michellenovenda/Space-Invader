@@ -1,7 +1,13 @@
 # Space-Invader
 A simple Spaceship Invader game with 3 levels and a Big Boss level, with different challenges per level. The player needs to defeat the Big Boss at the last level in order to win the game.
-<br/>
+<br/><br/>
 Language: C with Allegro
+<br/><br/>
+Make sure to have Allegro5 installed to your IDE.
+<br/>
+Setup reference for Visual Studio: https://youtu.be/ETcUmU2tpvg
+<br/>
+After setting up, unzip both space-shooter and features-support folder, copy all files inside the features-support folder into the space-shooter folder, and finally you are good to run the program on Visual Studio.
 
 <br/><br/>
 <b>Main Page</b>
