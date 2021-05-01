@@ -4,12 +4,12 @@ A simple Spaceship Invader game with 3 levels and a Big Boss level, with differe
 Language: C with Allegro
 
 <br/><br/>
-Main Page
+<b>Main Page</b>
 <br/>
 <img width="500" alt="main-page" src="https://user-images.githubusercontent.com/66156414/116789070-a655c580-aadf-11eb-89ec-5c8da3a5275e.png">
 
 <br/><br/>
-Settings
+<b>Settings</b>
 <br/>
 Users are allowed to select the desired background music and a plane.
 <br/>
@@ -19,7 +19,7 @@ Users are allowed to select the desired background music and a plane.
 
 
 <br/><br/>
-Instructions
+<b>Instructions</b>
 <br/>
 Basic information about enemies' strengths and bullets' functionalities.
 <br/>
@@ -28,7 +28,7 @@ Basic information about enemies' strengths and bullets' functionalities.
 <img width="500" alt="instructions-bullets" src="https://user-images.githubusercontent.com/66156414/116789205-46135380-aae0-11eb-8392-d2b0a38aa666.png">
 
 <br/><br/>
-The Game
+<b>The Game</<b>b>
 <br/>
 Level 1
 <br/>
@@ -47,7 +47,7 @@ Big Boss Level
 <img width="499" alt="level-big-boss" src="https://user-images.githubusercontent.com/66156414/116789261-9c809200-aae0-11eb-9988-7914e0304a9d.png">
 
 <br/><br/>
-Game Over
+<b>Game Over</b>
 <br/>
 Win Scene
 <br/>
