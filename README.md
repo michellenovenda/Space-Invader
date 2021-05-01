@@ -23,9 +23,9 @@ Instructions
 <br/>
 Basic information about enemies' strengths and bullets' functionalities.
 <br/>
-<img width="499" alt="instructions-enemies" src="https://user-images.githubusercontent.com/66156414/116789195-3dbb1880-aae0-11eb-878b-70caacaf9aaa.png"><img width="500" alt="instructions-bullets" src="https://user-images.githubusercontent.com/66156414/116789205-46135380-aae0-11eb-8392-d2b0a38aa666.png">
+<img width="499" alt="instructions-enemies" src="https://user-images.githubusercontent.com/66156414/116789195-3dbb1880-aae0-11eb-878b-70caacaf9aaa.png">
 <br/>
-![Uploading instructions-bullets.png…]()
+<img width="500" alt="instructions-bullets" src="https://user-images.githubusercontent.com/66156414/116789205-46135380-aae0-11eb-8392-d2b0a38aa666.png">
 
 <br/><br/>
 The Game
@@ -58,9 +58,9 @@ Lose Scene
 <img width="499" alt="lose-scene" src="https://user-images.githubusercontent.com/66156414/116789314-d6519880-aae0-11eb-8cfb-2fa6b8421dfa.png">
 
 <br/><br/>
-Cheats:
-Press keyboard:
-1 = Big Boss Level
-2 = 3rd Level
-3 = 2nd Level
+Cheats:<br/>
+Press keyboard:<br/>
+1 = Big Boss Level<br/>
+2 = 3rd Level<br/>
+3 = 2nd Level<br/>
 5 = Win Scene
