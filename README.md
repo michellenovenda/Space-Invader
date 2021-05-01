@@ -28,7 +28,7 @@ Basic information about enemies' strengths and bullets' functionalities.
 <img width="500" alt="instructions-bullets" src="https://user-images.githubusercontent.com/66156414/116789205-46135380-aae0-11eb-8392-d2b0a38aa666.png">
 
 <br/><br/>
-<b>The Game</<b>b>
+<b>The Game</b>
 <br/>
 Level 1
 <br/>
